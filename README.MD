@@ -1,11 +1,5 @@
-# Ambiente de desenvolvimento em docker 
-> Olá sejam bem vindos ao mini sistema para criação de programações da rede globo, 
-desenvolvido para fins de seleção de vaga por Elvis Gonçalves.
+# Ambiente de desenvolvimento em docker PHP + MYSQL + PHPMYADMIN
 
-
-Esse pesqueno sistema é apenas uma amostra de meu trabalho, com ele será possível visualizar a grade de programações da globo conforme solicitado.
-
-🚧 Obs: esse readme será atualizado até o fim do projeto.
 
 ## 1. Conteúdo do Projeto
 
